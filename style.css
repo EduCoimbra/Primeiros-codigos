@@ -52,7 +52,7 @@ header div:nth-child(1){
   border-radius: 50%;
   transition: transform 0.5s;
 }
-header div:hover{
+header div:nth-child(1):hover{
   transform: scale(1.1);
 }
 
