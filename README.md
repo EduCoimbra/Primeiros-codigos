@@ -1,5 +1,5 @@
 # Primeiros codigos
- Repositório para meus primeiros códigos
+ Esse foi um mini projeto que desenvolvi na NLW eSports da Rockseat. Uma página simples mas que usa algumas técnicas bem interessantes!
 
 > Trilha explorer no Next Level Week da Rocketseat
 
